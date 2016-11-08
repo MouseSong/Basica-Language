@@ -1,5 +1,3 @@
-# Basica-Language
-
 #Scala
 
 #Python
